@@ -9,6 +9,12 @@
             "email": "darryl.kuhn@gmail.com"
         }
     ],
+    "repositories": [
+    {
+        "type": "vcs",
+            "url": "https://github.com/fitndev/oauth2-server-php"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "bshaffer/oauth2-server-php": "dev-laravel",
