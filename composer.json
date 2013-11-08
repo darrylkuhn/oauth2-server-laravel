@@ -1,0 +1,22 @@
+{
+    "name": "darrylkuhn/oauth2-server-laravel",
+    "description": "Provides an integration layer oauth2-server-php packaeg on the Laravel 4 framework",
+    "keywords": ["laravel","authentication","web service","rest"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Darryl Kuhn",
+            "email": "darryl.kuhn@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "bshaffer/oauth2-server-php": "dev-laravel",
+    },
+    "autoload": {
+        "psr-0": {
+            "Oauth2Server": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
