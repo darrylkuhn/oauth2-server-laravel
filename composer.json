@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.4.0",
-        "bshaffer/oauth2-server-php": "dev-laravel",
+        "bshaffer/oauth2-server-php": "dev-laravel"
     },
     "autoload": {
         "psr-0": {
