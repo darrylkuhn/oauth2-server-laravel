@@ -12,7 +12,7 @@
     "repositories": [
     {
         "type": "vcs",
-            "url": "https://github.com/fitndev/oauth2-server-php"
+            "url": "https://github.com/darrylkuhn/oauth2-server-php"
         }
     ],
     "require": {
